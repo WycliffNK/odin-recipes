@@ -1,0 +1,7 @@
+body {
+  background-image: url("../images/jon-tyson-ZA9PHAnVP5g-unsplash.jpg"),linear-gradient(180deg, rgba(0,0,0,0.5)0%, rgba(0,0,0, 1)100% );
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  color:rgb(255,215,0);
+}

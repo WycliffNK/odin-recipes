@@ -1,0 +1,17 @@
+body {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(180deg, rgba(0,0,0,0.4)0%, rgba(0,0,0,0.7)100%), url("../images/ahmad-BqK3fmNTv_g-unsplash.jpg");
+  background-position: center;
+  background-size: cover;
+  color: rgb(224, 224, 224);
+}
+
+.subsection {
+  color:rgba(255,215,0, 0.7);
+  text-align: center;
+}
+
+.list{
+  color: rgb(192,192,192);
+  text-align: justify;
+}

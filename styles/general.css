@@ -1,7 +1,5 @@
-body {
+* {
   font-family: "Roboto", Arial, Helvetica, sans-serif;
-  background-image: url(../images/jon-tyson-ZA9PHAnVP5g-unsplash.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: rgb(222, 201, 41);
+  color:rgb(255,215,0);
+  text-align: center;
 }
