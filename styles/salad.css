@@ -5,13 +5,13 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   color: rgb(255,215,0);
-  text-align: center;
+  text-align: justify;
 }
 
 p, ul, ol {
-  text-align: justify;
   color: rgb(192,192,192);
 }
+
 
 
 
